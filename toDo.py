@@ -70,6 +70,4 @@ def ytarama():
    url= 'https://www.youtube.com/results?search_query='+key
    webbrowser.get().open(url)
 
-def calistir():
-   os.system("start steam://rungameid/365670")
 
